@@ -1,0 +1,27 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "MERN starter skeleton",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliepartner/Boiler-Plate.git"
+  },
+  "keywords": [
+    "boiler",
+    "plate"
+  ],
+  "author": "Elie Orgel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliepartner/Boiler-Plate/issues"
+  },
+  "homepage": "https://github.com/eliepartner/Boiler-Plate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
